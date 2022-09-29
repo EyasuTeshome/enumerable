@@ -25,6 +25,12 @@ Additional description about the project and its features.
 - Twitter: [@MRahal92](https://twitter.com/MRahal92)
 - LinkedIn: [mehdi-rahal22](https://www.linkedin.com/in/mehdi-rahal22/)
 
+👤 **Collins Musoko**
+
+- GitHub: [@Github](https://github.com/Carshy)
+- Twitter: [@Twitter](https://twitter.com/CarshyCollins)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/collins-musoko-864881120/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
