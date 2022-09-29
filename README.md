@@ -13,11 +13,6 @@ Additional description about the project and its features.
 
 - Ruby
 
-## Getting Started
-
-git git@github.com:EyasuTeshome/enumerable.git
-cd Enumerable-Ruby
-
 ## Authors
 
 👤 **Author2**
