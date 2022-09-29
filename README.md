@@ -5,8 +5,6 @@
 In this project I will use a module inside a class. For this I will create a class MyList and a module MyEnumerable. The module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 
-![screenshot](./app_screenshot.png)
-
 Additional description about the project and its features.
 
 ## Built With
@@ -15,11 +13,11 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author2**
+👤 **Eyasu Teshome**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
+- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
+- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/EyasuTeshome)
 
 👤 **Mehdi Rahal**
 
